@@ -40,5 +40,5 @@ And if you want to get crazy, even tables:
 1. Use just 1s if you want!
 1. And last but not least, let's embed an image:
 
-![Cincel logo](https://cincel.vercel.app/cincel.jgp)
+![Cincel logo](https://cincel.vercel.app/cincel.jpg)
 `;
