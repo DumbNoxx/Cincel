@@ -20,7 +20,7 @@ Or... _italic_.
 Or... **_both!_**
 And finally, a ~~strikethrough~~ text.
 
-There are [links](https://www.freecodecamp.org), and
+There are [links](https://nxus-website.vercel.app), and
 > Block Quotes!
 
 And if you want to get crazy, even tables:
