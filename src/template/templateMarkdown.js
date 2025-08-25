@@ -1,6 +1,6 @@
-export const Template = `# Welcome to my Markdown Previewer!
+export const Template = `# Welcome to Cincel!
 
-## This is a sub-heading
+## The Markdown Preview 
 ### And here's some other cool stuff:
 
 Heres some code, \`<div></div>\`, between 2 backticks.
