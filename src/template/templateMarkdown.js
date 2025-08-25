@@ -41,4 +41,5 @@ And if you want to get crazy, even tables:
 1. And last but not least, let's embed an image:
 
 ![Cincel logo](https://cincel.vercel.app/cincel.jpg)
+
 `;
